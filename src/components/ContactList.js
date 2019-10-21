@@ -7,15 +7,15 @@ const users = [
     },
     {   name: "Gilbert Thomas",
         image: "https://randomuser.me/api/portraits/men/50.jpg",
-        online: "Online"
+        online: true
     },
     {   name: "Robin Lynch",
         image: "https://randomuser.me/api/portraits/women/56.jpg",
-        online: "Online"
+        online: true
     },
     {   name: "Gordon Hart",
         image: "https://randomuser.me/api/portraits/men/32.jpg",
-        online: "Online"
+        online: true
     },
     {   name: "Kitty Reyes",
         image: "https://randomuser.me/api/portraits/women/80.jpg",                
